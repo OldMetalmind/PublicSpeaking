@@ -10,5 +10,4 @@ Open Source Communities
 
 # Submitted to
 
-
 # Story
