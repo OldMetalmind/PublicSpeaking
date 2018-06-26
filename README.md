@@ -21,7 +21,7 @@ Git over here! @ DevFest Coimbra
 Open Source Communities @ Open Source Lisbon
 
 ## 2014
-[Building large-scale android apps with a MongoDB backend](Building large-scale android apps with a MongoDB backend.md) @ MongoDB Lisbon Meetup
+[Building large-scale android apps with a MongoDB backend](https://github.com/OldMetalmind/PublicSpeaking/blob/master/Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ MongoDB Lisbon Meetup
 
 # Speaker Bio
 My name is Filipe Barroso, I'm a Android Engineer. I love getting out of my zone of comfort, if you don't see me at a tech event, I probabily be planning the next tech event I organize, reading about psycology or preparing my next bit of Standup comedy.
