@@ -7,17 +7,24 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 ## 2018
 How to organically grow your community @ GDG Global Summit, SF
+
 What the Flutter? @ BarcampLx
+
 What the Flutter? @ TugaIT Summer Edition
 
 ## 2017
 What is Firebase all about @ Android LX
 ## 2016
 Quick&Dirty @ Manchester Android Meetup
+
 Quick&Dirty @ GDG Liverpool
+
 Quick&Dirty @ Porto CherryPick
+
 Quick&Dirty @ BABBQ Amsterdam
+
 Git over here! @ DevFest Coimbra
+
 Open Source Communities @ Open Source Lisbon
 
 ## 2014
@@ -29,4 +36,5 @@ My name is Filipe Barroso, I'm a Android Engineer. I love getting out of my zone
 
 ### Notes
 ~ Repository idea by [Joe Birch](https://github.com/hitherejoe);
+
 ~ I would like to thank Francisco Baena and Almo for giving me the courage to submit my talks to bigger and bigger conferences;
