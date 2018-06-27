@@ -44,6 +44,6 @@ My name is Filipe Barroso, I'm a Android Engineer. I love getting out of my zone
 
 
 ### Notes
-~ Repository idea from [PublicSeaking](https://github.com/hitherejoe/PublicSpeaking/blob/master/README.md) by [Joe Birch](https://github.com/hitherejoe)
+~ Repository idea from [PublicSeaking](https://github.com/hitherejoe/PublicSpeaking) by [Joe Birch](https://github.com/hitherejoe)
 
 ~ I would like to thank Francisco Baena and Almo for giving me the courage to submit my talks to bigger and bigger conferences;
