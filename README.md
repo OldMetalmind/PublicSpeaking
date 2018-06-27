@@ -36,6 +36,8 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 [Git over here!](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Git%20over%20here!.md) @ DevFest Coimbra
 
+[Android Beginner's Next Step](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Android%20Intermediate.md) @ GDG Lisbon Meetup
+
 [Open Source Communities](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Open%20Source%20Communities.md) @ Open Source Lisbon
 
 ## 2014
