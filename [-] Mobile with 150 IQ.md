@@ -15,7 +15,7 @@ Let me present you the new world of smart applications.
 
 # Submitted to
 
-- Open Source Lisbon, 2018
-- GDG DevFest Ukraine, 2018
+- [-] Open Source Lisbon, 27 September, 2018
+- [-] GDG DevFest Ukraine, 2018
 
 # Story
