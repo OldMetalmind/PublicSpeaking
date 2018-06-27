@@ -14,7 +14,7 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 # Speaking timeline
 
 ## 2018
-[How to organically grow your community](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ GDG Global Summit, SF
+[How to organically grow your community](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ GDG Global Summit
 
 [What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ BarcampLx
 
