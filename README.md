@@ -23,14 +23,14 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 ## 2017
 [What is Firebase all about](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20is%20Firebase%20all%20about.md) @ Android LX
 
-[Communities & How to grow personally and professionally](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Communities%20and%20How%20to%20grow%20personally%20and%20professionally.md) @ Playnesti, April 2017
+[Communities & How to grow personally and professionally](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Communities%20and%20How%20to%20grow%20personally%20and%20professionally.md) @ Playnesti
 
 ## 2016
 [Quick & Dirty](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Quick%20and%20Dirty.md) @ Manchester Android Meetup
 
 [Quick & Dirty](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Quick%20and%20Dirty.md) @ GDG Liverpool
 
-[Quick & Dirty](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Quick%20and%20Dirty.md) @ Porto CherryPick
+[Quick & Dirty](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Quick%20and%20Dirty.md) @ Cherry Pick Porto 
 
 [Quick & Dirty](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Quick%20and%20Dirty.md) @ BABBQ Amsterdam
 
