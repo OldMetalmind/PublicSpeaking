@@ -13,3 +13,7 @@ Open Source Communities
 - [I] Open Source Lisbon, 2016
 
 # Story
+
+# Slides
+
+[Slides - Open Source Communities](https://docs.google.com/presentation/d/15ShR85HA-EODOybRQ-Zxilw6ERoqZRexnXsr0TqCdRg/edit?usp=sharing)
