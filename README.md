@@ -1,4 +1,4 @@
-# PublicSpeaking
+# Public Speaking
 My collections of abstracts, texts, information about my previous tech talks, future and in the making.
 
 These are all things I **have**, **want** and **am going** (well, I plan on!) to be talking about. Want me to speak about something here? Get in touch with me over on twitter [@abarroso](https://twitter.com/abarroso) :)
