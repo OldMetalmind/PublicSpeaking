@@ -14,36 +14,36 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 # Speaking timeline
 
 ## 2018
-How to organically grow your community @ GDG Global Summit, SF
+[How to organically grow your community](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ GDG Global Summit, SF
 
-What the Flutter? @ BarcampLx
+[What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ BarcampLx
 
-What the Flutter? @ TugaIT Summer Edition
+[What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ TugaIT Summer Edition
 
 ## 2017
-What is Firebase all about @ Android LX
+[What is Firebase all about](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20is%20Firebase%20all%20about.md) @ Android LX
 
 ## 2016
-Quick&Dirty @ Manchester Android Meetup
+[Quick & Dirty](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Quick%20and%20Dirty.md) @ Manchester Android Meetup
 
-Quick&Dirty @ GDG Liverpool
+[Quick & Dirty](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Quick%20and%20Dirty.md) @ GDG Liverpool
 
-Quick&Dirty @ Porto CherryPick
+[Quick & Dirty](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Quick%20and%20Dirty.md) @ Porto CherryPick
 
-Quick&Dirty @ BABBQ Amsterdam
+[Quick & Dirty](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Quick%20and%20Dirty.md) @ BABBQ Amsterdam
 
-Git over here! @ DevFest Coimbra
+[Git over here!](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Git%20over%20here!.md) @ DevFest Coimbra
 
-Open Source Communities @ Open Source Lisbon
+[Open Source Communities](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Open%20Source%20Communities.md) @ Open Source Lisbon
 
 ## 2014
-[Building large-scale android apps with a MongoDB backend](https://github.com/OldMetalmind/PublicSpeaking/blob/master/Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ MongoDB Lisbon Meetup
+[Building large-scale android apps with a MongoDB backend](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ MongoDB Lisbon Meetup
 
 # Speaker Bio
-My name is Filipe Barroso, I'm a Android Engineer. I love getting out of my zone of comfort, if you don't see me at a tech event, I probabily be planning the next tech event I organize, reading about psycology or preparing my next bit of Standup comedy.
+My name is Filipe Barroso, I'm a Software Engineer. I love getting out of my zone of comfort, if you don't see me at a tech event, I probabily be planning the next tech event I organize, reading about psychology or preparing my next bit of Standup comedy.
 
 
 ### Notes
-~ Repository idea from [PublicSeaking](https://github.com/hitherejoe/PublicSpeaking) by [Joe Birch](https://github.com/hitherejoe)
+~ Repository idea from [PublicSpeaking](https://github.com/hitherejoe/PublicSpeaking) by [Joe Birch](https://github.com/hitherejoe)
 
 ~ I would like to thank Francisco Baena and Almo for giving me the courage to submit my talks to bigger and bigger conferences;
