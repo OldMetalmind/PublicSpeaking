@@ -10,7 +10,7 @@ How to organically grow your community
 
 # Submitted to
 
-- [A] Global GDG Summit, 5 May, 2018
+- [I] Global GDG Summit; San Francisco, USA; 7 May, 2018
 
 # Story
 
