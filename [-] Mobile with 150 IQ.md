@@ -11,7 +11,7 @@ It is the end of Smartphones with dumb applications, nowadays there are so many 
 
 You can train your model in a closed and in your machines with your data and then just use the result in the Mobile environment.
 
-Let me present you the new world of smart applications.
+Let me present you the new world of intelligent applications.
 
 # Submitted to
 
