@@ -10,4 +10,6 @@ Open Source Communities
 
 # Submitted to
 
+- [I] Open Source Lisbon, 2016
+
 # Story
