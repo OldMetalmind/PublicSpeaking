@@ -44,7 +44,7 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 [Building large-scale android apps with a MongoDB backend](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ MongoDB Lisbon Meetup
 
 # Speaker Bio
-My name is Filipe Barroso, I'm a Software Engineer. I love getting out of my zone of comfort, if you don't see me at a tech event, I'm probabily organizing the next tech by Google Developer Group Lisbon, reading about psychology or preparing my next bit of Standup comedy.
+My name is Filipe Barroso, I'm a Software Engineer. I love getting out of my zone of comfort, if you don't see me at a tech event, I'm probably organizing the next tech by Google Developer Group Lisbon, reading about psychology or preparing my next bit of Standup comedy.
 
 
 ### Notes
