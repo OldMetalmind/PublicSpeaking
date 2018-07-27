@@ -45,6 +45,7 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 # Speaker Bio
 My name is Filipe Barroso, I'm a Software Engineer. I love getting out of my zone of comfort, if you don't see me at a tech event, I'm probably organizing the next tech by Google Developer Group Lisbon, reading about psychology or preparing my next bit of Standup comedy.
+
 As a developer, I've worked in android applications for Portugal Telecom now known as Altice, Brisa, Federação Portuguesa Futebol, TAP among many others and currently I am working remotely as an Android Developer and Machine Learning Engineer.
 
 
