@@ -20,6 +20,8 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 [What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ TugaIT Summer Edition
 
+[Mobile with 150 IQ](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Mobile%20with%20150%20IQ.md) @ Open Source Lisbon 
+
 ## 2017
 [What is Firebase all about](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20is%20Firebase%20all%20about.md) @ Android LX
 
