@@ -10,7 +10,7 @@ Communities and Alliances
 
 # Submitted to
 
-- [-] Open Source Lisbon, 27 September, 2018
+- [~R] Open Source Lisbon, 27 September, 2018
 
 # Story
 Two year ago I was given an opportunity to grow a community from ground zero, together with the team organizers and with a goal in mind, we started organizing events such as big conferences, workshops, smaller monthly meetups and such.
