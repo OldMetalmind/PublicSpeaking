@@ -15,7 +15,7 @@ Let me present you the new world of intelligent applications.
 
 # Submitted to
 
-- [-] Open Source Lisbon, 27 September, 2018
+- [A] Open Source Lisbon, 27 September, 2018
 - [R] GDG DevFest Ukraine, 2018
 
 # Story
