@@ -19,3 +19,7 @@ Let me present you the new world of intelligent applications.
 - [R] GDG DevFest Ukraine, 2018
 
 # Story
+
+# Extras
+
+- "Open Source Lisbon 2018" conference audience rated the presentation 4.3 in 5.
