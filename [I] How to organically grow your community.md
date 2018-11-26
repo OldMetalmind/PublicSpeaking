@@ -11,6 +11,7 @@ How to organically grow your community
 # Submitted to
 
 - [I] Global GDG Summit; San Francisco, USA; 7 May, 2018
+- [A] PAN-EU GDG Summit, Madrid, Spain; 1 Dec, 2018
 
 # Story
 
