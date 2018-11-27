@@ -24,8 +24,6 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 [How to organically grow your community](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ PAN-EU GDG Summit
 
-Special Guest, Year in review (Continental Europe edition) @ GDG - Community Management Talks
-
 ## 2017
 [What is Firebase all about](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20is%20Firebase%20all%20about.md) @ Android LX
 
