@@ -53,6 +53,9 @@ My name is Filipe Barroso, I'm a Software Engineer. I love getting out of my zon
 As a developer, I've worked in android applications for Portugal Telecom now known as Altice, Brisa, Federação Portuguesa Futebol, TAP, Bayer among many others and currently I am working remotely as an Android Developer and Machine Learning Engineer.
 
 
+# Profile Picture
+[https://i.imgur.com/3RkdzMy.jpg](https://i.imgur.com/3RkdzMy.jpg)
+
 ### Notes
 ~ Repository idea from [PublicSpeaking](https://github.com/hitherejoe/PublicSpeaking) by [Joe Birch](https://github.com/hitherejoe)
 
