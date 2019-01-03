@@ -48,13 +48,15 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 [Building large-scale android apps with a MongoDB backend](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ MongoDB Lisbon Meetup
 
 # Speaker Bio
-My name is Filipe Barroso, I'm a Software Engineer. I love getting out of my zone of comfort, if you don't see me at a tech event, I'm probably organizing the next tech by Google Developer Group Lisbon, reading about psychology or preparing my next bit of Standup comedy.
+Not an usual software developer, he loves getting out of the zone of comfort, if you don't see him at a tech event, his probably organizing the next tech event for Google Developer Group Lisbon, reading about psychology or supporting a community grow or start. Has a strong opinion about social impact, inclusivity and the importance of communities. 
 
-As a developer, I've worked in android applications for Portugal Telecom now known as Altice, Brisa, Federação Portuguesa Futebol, TAP, Bayer among many others and currently I am working remotely as an Android Developer and Machine Learning Engineer.
+As a developer, he has worked in android applications for companies such as Altice, Brisa, Federação Portuguesa Futebol, TAP, Bayer among many others and currently is working remotely as an Android Developer and Machine Learning Engineer.
 
 
 # Profile Picture
-[https://i.imgur.com/3RkdzMy.jpg](https://i.imgur.com/3RkdzMy.jpg)
+![Profile Picture](https://i.imgur.com/3RkdzMy.jpg "Profile Picture")
+
+url - [https://i.imgur.com/3RkdzMy.jpg](https://i.imgur.com/3RkdzMy.jpg)
 
 ### Notes
 ~ Repository idea from [PublicSpeaking](https://github.com/hitherejoe/PublicSpeaking) by [Joe Birch](https://github.com/hitherejoe)
