@@ -16,7 +16,7 @@ I will also showcase how to build a small working app and how structure a projec
 
 # Submitted to
 
-[ ] - Open Source Lisbon, September 27, 2018
+[~R] - Open Source Lisbon, September 27, 2018
 
 [A] - [Tuga It 2018 Summer Edition](http://tugait.pt/), July 19, 2018
 
