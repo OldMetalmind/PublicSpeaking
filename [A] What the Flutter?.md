@@ -1,6 +1,7 @@
 # Title
 
-What the Flutter?
+v1.0 - "What the Flutter?"
+v2.0 - "Ready, Set, Flutter"
 
 # Type
 
@@ -16,10 +17,14 @@ I will also showcase how to build a small working app and how structure a projec
 
 # Submitted to
 
-[~R] - Open Source Lisbon, September 27, 2018
+[] - v2, [PixelsCamp v3 ](https://pixels.camp/), March 21-23, 2019
 
-[A] - [Tuga It 2018 Summer Edition](http://tugait.pt/), July 19, 2018
+[A] - v2, [DevFest Porto](https://devfest.gdgporto.xyz/), January 26, 2019
 
-[A] - [BarcampLx #1](https://www.meetup.com/BarcampLx/events/248955131/), April 28, 2018
+[~R] - v1, Open Source Lisbon, September 27, 2018
+
+[A] - v1, [Tuga It 2018 Summer Edition](http://tugait.pt/), July 19, 2018
+
+[A] - v1, [BarcampLx #1](https://www.meetup.com/BarcampLx/events/248955131/), April 28, 2018
 
 # Story
