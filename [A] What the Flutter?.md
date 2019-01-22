@@ -1,6 +1,7 @@
 # Title
 
 v1.0 - "What the Flutter?"
+
 v2.0 - "Ready, Set, Flutter"
 
 # Type
@@ -17,7 +18,7 @@ I will also showcase how to build a small working app and how structure a projec
 
 # Submitted to
 
-[] - v2, [PixelsCamp v3 ](https://pixels.camp/), March 21-23, 2019
+[A] - v2, [PixelsCamp v3 ](https://pixels.camp/), March 21-23, 2019
 
 [A] - v2, [DevFest Porto](https://devfest.gdgporto.xyz/), January 26, 2019
 
