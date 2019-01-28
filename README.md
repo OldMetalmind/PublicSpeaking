@@ -15,8 +15,6 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 ## 2019
 
-[Ready, Set, Flutter](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ Pixels Camp v3.0
-
 [Ready, Set, Flutter](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ DevFest Porto
 
 
