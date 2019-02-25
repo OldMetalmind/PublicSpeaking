@@ -18,6 +18,8 @@ I will also showcase how to build a small working app and how structure a projec
 
 # Submitted to
 
+[A] - v2, [Pixels Camp v3](https://pixels.camp/), 21-23 March, 2019
+
 [A] - v2, [DevFest Porto](https://devfest.gdgporto.xyz/), January 26, 2019
 
 [~R] - v1, Open Source Lisbon, September 27, 2018
