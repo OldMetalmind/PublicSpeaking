@@ -19,11 +19,11 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 [Ready, Set, Flutter](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ [Pixels Camp](https://pixels.camp/), Lisboa
 
-[Flutter Workshop](https://workshop.flutter.pt), GDGLeiria, Leiria
+[Flutter Workshop](https://workshop.flutter.pt), [GDGLeiria](https://www.meetup.com/GDG-Leiria/events/259856138/), Leiria
 
-[Remote Flutter Workshop](https://workshop.flutter.pt) GDGMonrovia, Liberia
+[Remote Flutter Workshop](https://workshop.flutter.pt), @[GDGMonrovia](https://www.meetup.com/%C7%B4DG-Monrovia/events/260292725/), Liberia
 
-[Don't Mention Your Dead Pony]() @ GDG Global Leads Summit, California, USA
+[Don't Mention Your Dead Pony](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Don't%20Mention%20Your%20Dead%20Pony.md) @ GDG Global Leads Summit, California, USA
 
 ## 2018
 [How to organically grow your community](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ GDG Global Summit
