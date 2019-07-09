@@ -21,6 +21,8 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 [Flutter Workshop](https://workshop.flutter.pt), [GDGLeiria](https://www.meetup.com/GDG-Leiria/events/259856138/), Leiria
 
+[New kid in the BLoC](https://docs.google.com/presentation/d/1DA82JjM0kflX7s1G-Alv6_ZmO6qaPytD2q8Wo1ivE5s/edit?usp=sharing), @[WTM Zurich](https://twitter.com/wtm_ch), Zurich, Switzerland
+
 [Remote Flutter Workshop](https://workshop.flutter.pt), @[GDGMonrovia](https://www.meetup.com/%C7%B4DG-Monrovia/events/260292725/), Liberia
 
 [Don't Mention Your Dead Pony](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Don't%20Mention%20Your%20Dead%20Pony.md) @ GDG Global Leads Summit, California, USA
