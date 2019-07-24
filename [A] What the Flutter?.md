@@ -18,6 +18,8 @@ I will also showcase how to build a small working app and how structure a projec
 
 # Submitted to
 
+[-] - [Flutter Conf // First Flutter & Dart Conference] Marbella, Spain, October 18-19, 2019
+
 [A] - v2, [Pixels Camp v3](https://pixels.camp/), 21-23 March, 2019
 
 [A] - v2, [DevFest Porto](https://devfest.gdgporto.xyz/), January 26, 2019
