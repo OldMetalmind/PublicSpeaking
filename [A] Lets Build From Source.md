@@ -13,7 +13,7 @@ With this talk I hope to present how to build new widget so that in case you nee
 
 # Submitted to
 
-[-] - [Flutter Conf // First Flutter & Dart Conference] Marbella, Spain, October 18-19, 2019
+[A] - [Flutter Conf// Flutter & Dart Conference](http://flutterconf.gdgmarbella.com) Marbella, Spain, October 18-19, 2019
 
 # Story
 
