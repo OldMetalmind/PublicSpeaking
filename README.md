@@ -41,6 +41,8 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 ## 2017
 [What is Firebase all about](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20is%20Firebase%20all%20about.md) @ Android LX
 
+[Git Over Here!](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Git%20over%20here!.md) @ DevFest Coimbra 2017
+
 [Communities & How to grow personally and professionally](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Communities%20and%20How%20to%20grow%20personally%20and%20professionally.md) @ Playnesti
 
 ## 2016
