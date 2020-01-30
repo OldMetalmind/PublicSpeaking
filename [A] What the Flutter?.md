@@ -18,6 +18,8 @@ I will also showcase how to build a small working app and how structure a projec
 
 # Submitted to
 
+[R] - [Flutter Europe](https://fluttereurope.dev/) Warsaw, Poland, January, 2020
+
 [A] - v3, [Open Source Lisbon](https://www.opensourcelisbon.com/), October 4, 2019
 
 [~R] - [Flutter Conf // First Flutter & Dart Conference] Marbella, Spain, October 18-19, 2019
