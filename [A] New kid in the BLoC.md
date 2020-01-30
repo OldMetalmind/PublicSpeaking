@@ -11,7 +11,9 @@ The goal of this talk is that the end of 40 minutes you will have a better under
 
 # Submitted to
 
-[-] - [Flutter Conf // First Flutter & Dart Conference] Marbella, Spain, October 18-19, 2019
+[R] - [Flutter Europe](https://fluttereurope.dev/) Warsaw, Poland, January, 2020
+
+[~R] - [Flutter Conf // First Flutter & Dart Conference] Marbella, Spain, October 18-19, 2019
 
 [A] - [WTM Zurich](https://www.meetup.com/wtm-switzerland/events/260275037/), April 15, 2019
 
