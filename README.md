@@ -66,10 +66,8 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 [Building large-scale android apps with a MongoDB backend](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ MongoDB Lisbon Meetup
 
 # Speaker Bio
-Not your usual software developer, he loves getting out of the zone of comfort and if you don't see him at a tech event, he is probably organizing the next tech event for Google Developer Group Lisbon, that he is an organizer for the last last 4 years, where he organized more than 60 events, 7 of them being full-day conferences. He likes to read psychology or supporting a local community. He has a strong opinion about social impact, inclusivity and the importance of communities. Lately, he has been advocating the new Flutter SDK by Google, around Portugal, by organizing Flutter Talks and workshops.
 
-As a developer, he has worked in android applications for companies such as Altice, Brisa, Federação Portuguesa Futebol, TAP, Bayer among many others and currently is working remotely as an Android Developer and Machine Learning Engineer.
-
+Not your usual software developer, he loves getting out of his comfort zone, and if you don't know where he is, he's probably organizing the next tech event, he's an community organizer of Google Developer Group in Lisbon and Flutter Portugal which lately has been advocating for the Flutter SDK by Google. Besides programming, Filipe likes to read psychology and support the local community, always trying to make a social impact.
 
 # Profile Picture
 ![Profile Picture](https://i.imgur.com/3RkdzMy.jpg "Profile Picture")
