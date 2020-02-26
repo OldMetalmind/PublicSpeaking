@@ -4,6 +4,8 @@ v1.0 - "What the Flutter?"
 
 v2.0 - "Ready, Set, Flutter"
 
+v3.0 - ["Ready, Set, Flutter!"](https://docs.google.com/presentation/d/1vYMpIs9x4S93v2LvjFanpgmADns6MeCo3zUPnlY4cpA/edit?usp=sharing)
+
 # Type
 
 45 minute talk
@@ -15,6 +17,8 @@ What is Flutter and why should you care about it? At the end of the talk, you wi
 
 
 # Submitted to
+
+[A] - [Talkdesk Fullstack Lisboa](https://www.meetup.com/Fullstack-Lisboa/events/268800136/), Lisbon, Portugal, February, 2020
 
 [R] - [Flutter Europe](https://fluttereurope.dev/) Warsaw, Poland, January, 2020
 
