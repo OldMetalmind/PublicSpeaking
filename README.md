@@ -13,6 +13,10 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 # Speaking timeline
 
+## 2020
+
+[Digital Prototyping](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Digital%20Prototyping.md) @ NOVA IMPACT CHALLENGE, Lisbon, Portugal (Remote)
+
 ## 2019
 
 [Lets build from source](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Lets%20Build%20From%20Source.md) @ FlutterConf, Marbella, Spain
