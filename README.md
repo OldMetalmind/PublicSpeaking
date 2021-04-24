@@ -71,6 +71,7 @@ These are all things I **have**, **want** and **am going** (well, I plan on!) to
 
 # Speaker Bio
 
+International speaker, Community Organizer & Advocate, Open Source Contributor.
 Not your usual software developer, he loves getting out of his comfort zone, and if you don't know where he is, he's probably organizing the next tech event, he's an community organizer of Google Developer Group in Lisbon and Flutter Portugal which lately has been advocating for the Flutter SDK by Google. Besides programming, Filipe likes to read psychology and support the local community, always trying to make a social impact.
 
 # Profile Picture
