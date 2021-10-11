@@ -10,6 +10,9 @@ Code Flutter Like DOOM Slayer
 
 With this talk I teach how to use EMACS to code Flutter, with some sneak peak on how to also use ORG-Mode to manage our personal project. As a bonus, I give some examples on how to create code snippets that are better than any other IDE.
 
+# Recording
+
+https://www.youtube.com/watch?v=GCBfGZ-FMIs&t=1s
 
 # Submitted to
 
