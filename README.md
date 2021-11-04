@@ -1,7 +1,9 @@
 # Public Speaking
-My collections of abstracts, texts, information about my previous tech talks, future and in the making.
+My collections of abstracts, texts, information about my previous tech talks, future and in the making. 
 
-These are all things I **have**, **want** and **am going** (well, I plan on!) to be talking about. Want me to speak about something here? Get in touch with me over on twitter [@abarroso](https://twitter.com/abarroso) :)
+These are all things I **have**, **want** and **am going** (well, I plan on!) to be talking about. Get in touch with me over on Twitter [@abarroso](https://twitter.com/abarroso) :)
+
+I might missing some smaller online or in-person meetups or conferences.
 
 # Key for file titles
 
