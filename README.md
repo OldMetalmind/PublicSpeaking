@@ -55,11 +55,11 @@ I might missing some smaller online or in-person meetups or conferences.
 ## 2018
 [How to organically grow your community](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ GDG Global Summit
 
-[What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ BarcampLx
+[What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ [BarcampLx #1](https://www.meetup.com/BarcampLx/events/248955131/)
 
-[What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ TugaIT Summer Edition
+[What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ [TugaIT Summer Edition](https://sessionize.com/tuga-it-2018/)
 
-[Mobile with 150 IQ](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Mobile%20with%20150%20IQ.md) @ Open Source Lisbon 
+[Mobile with 150 IQ](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Mobile%20with%20150%20IQ.md) @ [Open Source Lisbon](https://opensourcelisbon.syone.com/) 
 
 [How to organically grow your community](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Building%20large-scale%20android%20apps%20with%20a%20MongoDB%20backend.md) @ PAN-EU GDG Summit
 
