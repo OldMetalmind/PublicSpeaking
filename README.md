@@ -20,6 +20,8 @@ DFG - Docker, Flutter Web, and Google Build @ Flutter Global Summit. Volume 2 (R
 
 DFG - Docker, Flutter Web, and Google Build @ DevFest Sri Lanka 2021
 
+[What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ [GDG Hannover Meetup](https://gdg.community.dev/events/details/google-gdg-hannover-presents-what-the-flutter-how-do-i-react-native/) (Remote)
+
 [Code Flutter like DOOM Slayer](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Code%20Flutter%20like%20DOOM%20Slayer.md) @ [Flutter Zürich Online Meetup October 2021](https://www.meetup.com/Flutter-Zurich/events/280938692)
 
 [Code Flutter like DOOM Slayer](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Code%20Flutter%20like%20DOOM%20Slayer.md) @ Speaking About, Castelo Branco (Remote)
