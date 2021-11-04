@@ -24,6 +24,10 @@ DFG - Docker, Flutter Web, and Google Build @ DevFest Sri Lanka 2021
 
 [Code Flutter like DOOM Slayer](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Code%20Flutter%20like%20DOOM%20Slayer.md) @ Speaking About, Castelo Branco (Remote)
 
+[Flutter Guest Speaker - Ep 156](https://podcastubuntuportugal.org/e156/) @ [Portugal Ubuntu Portugal](https://podcastubuntuportugal.org/)
+
+[Flutter Guest Speaker - Ep 155](https://podcastubuntuportugal.org/e155/) @ [Portugal Ubuntu Portugal](https://podcastubuntuportugal.org/)
+
 ## 2020
 
 [Digital Prototyping](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BI%5D%20Digital%20Prototyping.md) @ NOVA IMPACT CHALLENGE, Lisbon, Portugal (Remote)
