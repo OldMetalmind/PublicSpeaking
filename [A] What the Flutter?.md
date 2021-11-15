@@ -11,10 +11,11 @@ v3.0 - ["Ready, Set, Flutter!"](https://docs.google.com/presentation/d/1vYMpIs9x
 45 minute talk
 
 # Abstract
-The Flutter SDK by Google is the new Open Source UI SDK to create native applications in one codebase.
+The Flutter SDK by Google is the Open Source UI toolkit to create native applications with one codebase.
 
-What is Flutter and why should you care about it? At the end of the talk, you will understand the decisions behind Flutter, why it is so different from other mobile development tools and platforms and why are so many developers already addicted to it.
+What is Flutter and why should you care about it? At the end of the talk, you will understand the decisions behind Flutter, why it is so different from other mobile development tools and platforms and why so many developers are addicted to it.
 
+We’ll start by understanding the architecture of Flutter, the basic elements, and tackling the reason for picking Dart language for developing Flutter. If we have time I will present some code for a Flutter elementary application but I will give more priority to Q&A.
 
 # Submitted to
 
