@@ -8,7 +8,7 @@ Dart Microservice with Google Cloud Platform
 
 # Abstract
 
-We all know the power of Flutter, but you can't forget that with great power comes ... Dart! The super-powered programming language that is also quite good in backend too. With this talk I'll present the reason why I picked Dart for a backed project, I'll show you how to build an API with Shelf deploying it at Google Cloud Platform to use with oogle Build, Run, Scheduler, Storage, Container Registrey, Source Repository and Pub/Sub! Just to name a few.
+We all know the power of Flutter, but you can't forget that with great power comes ... Dart! The super-powered programming language is also quite good in the backend too. With this talk I'll present the reason why I picked Dart for a backed project, I'll show you how to build an API with Shelf deploying it at Google Cloud Platform to use with Google Build, Run, Scheduler, Storage, Container Registry, Source Repository and Pub/Sub! Just to name a few.
 
 # Submitted to
 
