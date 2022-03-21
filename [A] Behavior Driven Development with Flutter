@@ -1,0 +1,20 @@
+
+# Title
+
+Behavior Driven Development with Flutter
+
+# Type
+
+45 minute talk
+
+# Abstract
+
+If there is something that projects tend to ignore are TESTS. With the same mindset of Test Driven Development (TDD) we get Behavior Driven Development, but instead for integration tests and all with a simple text definition for all tests through a language called Gherkin. With this talk you will learn the fundamentals of BDD, the reasoning behind them and we'll see how to implement it with Flutter!
+
+# Submitted to
+
+- [A] Flutter Festival GDG Faro - 22 Mar ([website](https://gdg.community.dev/events/details/google-gdg-faro-presents-flutter-festival-2022-dia-2-by-gdg-faro/))
+
+# Story
+
+I needed tests, and I kept hearing my significant other talking with her colleagues about a certain methodology that it was making them win contracts and clients hearts. Well well well, if it wasn't Behavior Driven Development, I immediately went all in and quite enjoyed the metodology!
