@@ -15,6 +15,10 @@ I might missing some smaller online or in-person meetups or conferences.
 
 # Speaking timeline
 
+## 2022
+
+[Behavior Driven Development with Flutter] @ [Flutter Festival by GDG Faro](https://gdg.community.dev/events/details/google-gdg-faro-presents-flutter-festival-2022-dia-2-by-gdg-faro/)
+
 ## 2021
 
 [What the Flutter?](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ [Ubuntu OnAir](https://www.youtube.com/channel/UCm7OifwnZoMCChidCJZQruQ) - [Video Link](https://www.youtube.com/watch?v=30Y9lB7yGfY)
