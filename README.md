@@ -103,6 +103,18 @@ Not your usual software developer, he loves getting out of his comfort zone, and
 
 url - [https://i.imgur.com/3RkdzMy.jpg](https://i.imgur.com/3RkdzMy.jpg)
 
+# Social Links
+
+Twitter
+https://twitter.com/ABarroso
+
+Website:
+https://filipebarroso.com
+
+Github
+https://github.com/oldmetalmind
+
+
 ### Notes
 ~ Repository idea from [PublicSpeaking](https://github.com/hitherejoe/PublicSpeaking) by [Joe Birch](https://github.com/hitherejoe)
 
