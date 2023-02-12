@@ -15,6 +15,10 @@ I might missing some smaller online or in-person meetups or conferences.
 
 # Speaking timeline
 
+## 2023
+
+Flutter Workshop @ [Flutter Portugal Meetup](https://www.meetup.com/flutterportugal/events/291573594/?isFirstPublish=true) a Ubuntu Portugal partnership workshop.
+
 ## 2022
 
 [Behavior Driven Development with Flutter] @ [Flutter Festival by GDG Faro](https://gdg.community.dev/events/details/google-gdg-faro-presents-flutter-festival-2022-dia-2-by-gdg-faro/)
@@ -95,7 +99,7 @@ I might missing some smaller online or in-person meetups or conferences.
 
 # Speaker Bio
 
-International speaker, Community Organizer & Advocate, Open Source Contributor.
+International speaker, Community Organizer & Advocate.
 Not your usual software developer, he loves getting out of his comfort zone, and if you don't know where he is, he's probably organizing the next tech event, he's an community organizer of Google Developer Group in Lisbon and Flutter Portugal which lately has been advocating for the Flutter SDK by Google. Besides programming, Filipe likes to read psychology and support the local community, always trying to make a social impact.
 
 # Profile Picture
