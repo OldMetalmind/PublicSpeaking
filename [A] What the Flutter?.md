@@ -19,6 +19,8 @@ We’ll start by understanding the architecture of Flutter, the basic elements, 
 
 # Submitted to
 
+[A] - [Meet DevPT #5](https://www.eventbrite.com.br/e/meet-devpt-5-tickets-599145990787), Lisbon, Portugal, April, 2023
+
 [A] - [Talkdesk Fullstack Lisboa](https://www.meetup.com/Fullstack-Lisboa/events/268800136/), Lisbon, Portugal, February, 2020
 
 [R] - [Flutter Europe](https://fluttereurope.dev/) Warsaw, Poland, January, 2020
