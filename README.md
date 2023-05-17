@@ -17,6 +17,9 @@ I might missing some smaller online or in-person meetups or conferences.
 
 ## 2023
 
+
+[Ready, Set, Flutter](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ [DevPt Meetup #5](https://www.eventbrite.pt/e/meet-devpt-5-tickets-599145990787?keep_tld=1)
+
 Flutter Workshop @ [Flutter Portugal Meetup](https://www.meetup.com/flutterportugal/events/291573594/?isFirstPublish=true) a Ubuntu Portugal partnership workshop.
 
 ## 2022
@@ -37,7 +40,7 @@ Flutter Workshop @ [Flutter Portugal Meetup](https://www.meetup.com/flutterport
 
 [Code Flutter like DOOM Slayer](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20Code%20Flutter%20like%20DOOM%20Slayer.md) @ [Speaking About](https://speaking.aidicb.pt/), Castelo Branco, Portugal (Remote)
 
-[Flutter Guest Speaker - Ep 156](https://podcastubuntuportugal.org/e156/) @ [Portugal Ubuntu Portugal](https://podcastubuntuportugal.org/)
+[Guest Speaker - Ep 156](https://podcastubuntuportugal.org/e156/) @ [Portugal Ubuntu Portugal](https://podcastubuntuportugal.org/)
 
 [Flutter Guest Speaker - Ep 155](https://podcastubuntuportugal.org/e155/) @ [Portugal Ubuntu Portugal](https://podcastubuntuportugal.org/)
 
