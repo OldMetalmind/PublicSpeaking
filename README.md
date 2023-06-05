@@ -17,6 +17,11 @@ I might missing some smaller online or in-person meetups or conferences.
 
 ## 2023
 
+What is FlutterFlow? - [NoCode Lisboa #9](https://www.meetup.com/nocode-lisboa/events/293990119/)
+
+Flutter Workshop - Introdução a Flutter - [GDGCoimbra](https://www.meetup.com/gdg-coimbra/events/292933626/) 
+
+Flutter Workshop @ [GDGCoimbra](https://www.meetup.com/gdg-coimbra/events/292933626/) 
 
 [Ready, Set, Flutter](https://github.com/OldMetalmind/PublicSpeaking/blob/master/%5BA%5D%20What%20the%20Flutter%3F.md) @ [DevPt Meetup #5](https://www.eventbrite.pt/e/meet-devpt-5-tickets-599145990787?keep_tld=1)
 
