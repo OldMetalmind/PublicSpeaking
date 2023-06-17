@@ -17,7 +17,7 @@ I might missing some smaller online or in-person meetups or conferences.
 
 ## 2023
 
-Flutter líder no desenvolvimento multiplataforma. De startups à banca - Instituto Politécnico de Setúbal
+Flutter: O Futuro do Desenvolvimento Multiplataforma, da startup à banca - Instituto Politécnico de Setúbal
 
 What is FlutterFlow? - [NoCode Lisboa #9](https://www.meetup.com/nocode-lisboa/events/293990119/)
 
