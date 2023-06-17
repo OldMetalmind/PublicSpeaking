@@ -17,6 +17,8 @@ I might missing some smaller online or in-person meetups or conferences.
 
 ## 2023
 
+Flutter líder no desenvolvimento multiplataforma. - Instituto Politécnico de Setúbal
+
 What is FlutterFlow? - [NoCode Lisboa #9](https://www.meetup.com/nocode-lisboa/events/293990119/)
 
 Flutter Workshop - Introdução a Flutter - [GDGCoimbra](https://www.meetup.com/gdg-coimbra/events/292933626/) 
@@ -111,7 +113,7 @@ International speaker, Community Organizer & Advocate.
 Not your usual software developer, he loves getting out of his comfort zone, and if you don't know where he is, he's probably organizing the next tech event, he's an community organizer of Google Developer Group in Lisbon and Flutter Portugal which lately has been advocating for the Flutter SDK by Google. Besides programming, Filipe likes to read psychology and support the local community, always trying to make a social impact.
 
 # Profile Picture
-![Profile Picture](https://i.imgur.com/3RkdzMy.jpg "Profile Picture")
+![Profile Picture](https://i.imgur.com/YRSiQSZ.jpg "Profile Picture")
 
 url - [https://i.imgur.com/3RkdzMy.jpg](https://i.imgur.com/3RkdzMy.jpg)
 
