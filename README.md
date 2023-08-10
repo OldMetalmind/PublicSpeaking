@@ -132,7 +132,7 @@ https://github.com/oldmetalmind
 
 As a senior developer with extensive experience in Android and Flutter app development. I have a strong focus on creating long-term code structures and architectures that can be expanded upon to address different client needs.
 
-I’ve worked for companies such as Carv, where I lead a team in developing an app that leverages Firebase, third-party bot team, and AI models to create highlights, summaries, and sharing for meetings. At Pvotal, I played a key role in the start of the Venture Building company structure by preparing templates, repositories, and flutter components to address any challenge.
+Currently at Teya, responsible for transitioning the ecosystem to Flutter. I’ve worked for companies such as Carv, where I lead a team in developing an app that leverages Firebase, third-party bot team, and AI models to create highlights, summaries, and sharing for meetings. At Pvotal, I played a key role in the start of the Venture Building company structure by preparing templates, repositories, and flutter components to address any challenge.
 
 I also worked at Acceptto as part of the R&D AI team, where we created new solutions for authentication, and at Wingman as a senior Android developer I was responsible for various projects. Furthermore, I have experience working as a contractor and as a volunteer for causes such as, VOST: Portuguese Digital Volunteers in Emergency Situations, and Data Science for Social Good Portugal. I’m also involved in organizing events related to Flutter and tech communities in Portugal through Flutter Portugal and Google Developers Group.
 
