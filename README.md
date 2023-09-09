@@ -17,11 +17,13 @@ I might missing some smaller online or in-person meetups or conferences.
 
 ## 2023
 
-Flutter: O Futuro do Desenvolvimento Multiplataforma, da startup à banca - Instituto Politécnico de Setúbal
+[Behavior Driven Development with Flutter] @ [Flutter & Friends 2023](https://www.youtube.com/live/Gz0J2Uv6xSI?si=sF3qKbwpdhIDgwz0), Stockholm, Sweden
 
-What is FlutterFlow? - [NoCode Lisboa #9](https://www.meetup.com/nocode-lisboa/events/293990119/)
+Flutter: O Futuro do Desenvolvimento Multiplataforma, da startup à banca @ Instituto Politécnico de Setúbal
 
-Flutter Workshop - Introdução a Flutter - [GDGCoimbra](https://www.meetup.com/gdg-coimbra/events/292933626/) 
+What is FlutterFlow? @ [NoCode Lisboa #9](https://www.meetup.com/nocode-lisboa/events/293990119/)
+
+Flutter Workshop - Introdução a Flutter @ [GDGCoimbra](https://www.meetup.com/gdg-coimbra/events/292933626/) 
 
 Flutter Workshop @ [GDGCoimbra](https://www.meetup.com/gdg-coimbra/events/292933626/) 
 
