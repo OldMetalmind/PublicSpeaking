@@ -17,11 +17,14 @@ I might missing some smaller online or in-person meetups or conferences.
 
 ## 2023
 
+[Introduction Talk and workshop of Flutter] @ 
+[Festa do Software Livre Conference](https://festa2023.softwarelivre.eu/), Aveiro, Portugal
+
 [Behavior Driven Development with Flutter] @ [Flutter & Friends 2023](https://www.youtube.com/live/Gz0J2Uv6xSI?si=sF3qKbwpdhIDgwz0), Stockholm, Sweden
 
-Flutter: O Futuro do Desenvolvimento Multiplataforma, da startup à banca @ Instituto Politécnico de Setúbal
+Flutter: O Futuro do Desenvolvimento Multiplataforma, da startup à banca @ Instituto Politécnico de Setúbal, Portugal
 
-What is FlutterFlow? @ [NoCode Lisboa #9](https://www.meetup.com/nocode-lisboa/events/293990119/)
+What is FlutterFlow? @ [NoCode Lisboa #9](https://www.meetup.com/nocode-lisboa/events/293990119/)9
 
 Flutter Workshop - Introdução a Flutter @ [GDGCoimbra](https://www.meetup.com/gdg-coimbra/events/292933626/) 
 
