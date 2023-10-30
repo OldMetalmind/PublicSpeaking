@@ -16,6 +16,7 @@ I might missing some smaller online or in-person meetups or conferences.
 # Speaking timeline
 
 ## 2023
+[Flutter Workshop] @ [Droidcon Lisbon](https://www.droidcon.com/events/droidcon-lisbon-2023/) Lisbon, Portugal
 
 [Introduction Talk and workshop of Flutter] @ 
 [Festa do Software Livre Conference](https://festa2023.softwarelivre.eu/), Aveiro, Portugal
